@@ -1,5 +1,5 @@
 apiVersion: v2
-name: my-app-chart
+name: jbo-app-chart
 description: My super chart for gitops codelab
 type: application
 version: 1.0.0
